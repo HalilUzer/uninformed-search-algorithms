@@ -2,7 +2,9 @@
 Comparison of Breadth First Search, Depth First Search, Depth Limited and Iterative Depth Limited algorithms according to their expanded node counts and max fringe sizes while they solve 8 puzzle game.
 
 ## Usage
-Enter start state to start_state variable in Agent.py at line 270 as 2d list. Code will print all outputs.
+Enter start state to start_state variable in Agent.py at line 270 as 2d list. Run Agent.py. Code will print all outputs. 
+
+Queue.py and Agent.py must be in same folder.
 
 Coded in python 3.
 

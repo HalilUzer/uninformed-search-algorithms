@@ -4,7 +4,7 @@ Comparison of Breadth First Search, Depth First Search, Depth Limited and Iterat
 ## Usage
 Enter start state to start_state variable in Agent.py at line 270 as 2d list. Code will print all outputs.
 
-Coded in python 3
+Coded in python 3.
 
 ### Example Output
 ```
